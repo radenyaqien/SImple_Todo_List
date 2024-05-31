@@ -15,7 +15,6 @@ import com.dicoding.todoapp.R
 import com.dicoding.todoapp.notification.NotificationWorker
 import com.dicoding.todoapp.utils.NOTIFICATION_CHANNEL_ID
 import com.dicoding.todoapp.utils.NOTIFICATION_WORKER
-import java.util.Calendar
 import java.util.concurrent.TimeUnit
 
 
